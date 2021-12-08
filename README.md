@@ -2,7 +2,7 @@
 
 [DEMO LINK](https://artem5457.github.io/todo-app/)
 
-#Description
+# Description
 `Todo App` is an application where you can add your todos and control your progress.
 
 Technologies used in project:
